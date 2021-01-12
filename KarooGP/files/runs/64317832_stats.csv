@@ -1,0 +1,53 @@
+1|109315868.5189958|725472580.61587|1.8532437086105347|y*sign(y) - sign(x)
+2|18350.26107502977|83506.58102784178|4.17533016204834|x - y - abs(x)*cos(y)/sign(y) + sin(x)
+3|92.86574288705985|223.68906143367076|2.359926462173462|-y*cos(y) - y + sin(x) + 2*sign(y) + y*cos(y)/x - abs(y)*cos(y)/(x*sign(y))
+4|38.995172088344894|164.4611426729787|3.123687982559204|y*abs(x)*cos(y)/(abs(y)*sign(y)) + sin(x)
+5|56.177025973796844|216.74245745951595|2.321167469024658|-y + y/abs(y) - abs(y)*cos(y)/sign(y) + sin(x)
+6|32.86918133993944|166.8452578993054|2.6711180210113525|y*abs(x)*cos(y)/(abs(y)*sign(x)) + sin(x)
+7|525.5382158458233|3564.524767027462|3.2397022247314453|y*cos(y)/sign(y) + sin(x)
+8|35.312336747845016|167.0692645920424|3.0414211750030518|-abs(x)*cos(y)/sign(x) + sin(x) + sin(y)*cos(y)**2 + sign(x)
+9|6.217337633172671|6.105257212378347|2.9517433643341064|y*abs(x)*cos(y)/abs(y) - abs(y)*cos(x) + sin(x)*cos(y) + sin(x) + cos(x) + cos(y) + sign(y) - 1/sign(y)
+10|7.5474051634470625|13.838713425869473|2.8201675415039062|y/abs(y) - abs(x)*cos(y)/sign(x) + sin(x)
+11|8.472333083550135|15.053281355290785|2.0295515060424805|cos(y) + sign(y) - 1/sign(y)
+12|22.675930778185528|114.31665218557143|2.6254384517669678|y*abs(x)*cos(y)/abs(y) - abs(x)*cos(x) + sin(x)*cos(y) + sin(x) + cos(x) + cos(y) + sign(y) - 1/sign(y)
+13|4.654218365748723|2.801956145514697|2.0295515060424805|cos(y) + sign(y) - 1/sign(y)
+14|5.639141862591107|4.416921962163305|2.1204099655151367|abs(y)*sin(y)*cos(y)**2 + abs(y)*sign(y) - abs(y)/sign(y) + sin(x) + sign(y)
+15|10.696652463326851|30.418666727077074|0.738470733165741|y/(abs(y)*sign(y))
+16|4.830955273161332|4.544955988827384|0.738470733165741|y/(abs(y)*sign(y))
+17|4.6444748267531395|4.227674724043697|1.7888010740280151|y*cos(x)**2 + cos(y)**2 - 1/sign(y)
+18|7.0271357248226805|11.321646373329044|1.7888010740280151|y*cos(x)**2 + cos(y)**2 - 1/sign(y)
+19|15.360319611926874|66.6626112846752|1.7858744859695435|abs(x)*sign(y) - abs(x)/sign(y) + sin(x)*cos(x) + sin(x)
+20|8.661301590502262|18.40512667944506|1.8867802619934082|abs(y)*sign(y) - abs(y)/sign(y) + sin(x) + cos(x)**2*cos(y)**2*tan(y) + sin(y)/abs(y)
+21|15.206007363895575|63.62935102943889|1.6456469297409058|-abs(x)*cos(x) + abs(x)*sign(y) - abs(x)/sign(y) + sin(x) + sin(y)*cos(x)
+22|5.9740229571859045|7.384543999523478|1.7888010740280151|y*cos(x)**2 + cos(y)**2 - 1/sign(y)
+23|304.68562915672857|1526.4071173151888|0.738470733165741|y/(abs(y)*sign(y))
+24|10.64041107147932|17.131007846675335|1.6307677030563354|y - abs(y)/sign(y)
+25|8.508789032697678|16.46638256870658|1.4132215976715088|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x)*cos(x)*cos(y) + sin(x) + sin(y)*cos(y)**3 + sin(y)*cos(y)/y
+26|49.44972764452299|300.5156222463199|1.400294303894043|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x)*cos(x)*cos(y) + sin(x) + sin(y)*cos(y)/y
+27|6.2609883571664495|9.20665665319525|1.3970175981521606|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x) + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**3 + sin(y)*cos(y)/y
+28|4.117711914082368|4.501804584312532|1.39322829246521|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x) + sin(y)*cos(x)*cos(y)**2 + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)/y
+29|22.005102281769116|116.64900962884911|1.2752741575241089|abs(y)*cos(y)**2 + sin(y)/sign(y) + cos(y)
+30|12.882146686315536|50.5789173085535|1.3801969289779663|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x)*cos(x)*cos(y)**2 + sin(x) + sin(y)*cos(y)**3 + sin(y)*cos(y)/y
+31|6.6001051639517145|24.031135902504694|1.3904433250427246|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x)*cos(y)**3 + sin(x) + sin(y)*cos(y)**3 + sin(y)*cos(y)/y
+32|3.0793658619125686|2.903452664541699|1.3904433250427246|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x)*cos(y)**3 + sin(x) + sin(y)*cos(y)**3 + sin(y)*cos(y)/y
+33|3.140017675856749|1.8826422652934942|1.392032265663147|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x) + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)/y
+34|3.728589023152987|3.8095343812557045|1.392032265663147|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x) + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)/y
+35|9.012204272051653|40.444209668157754|1.3984441757202148|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x)*cos(y)**3 + sin(x) + sin(y)*cos(y)**2 + sin(y)*cos(y)/y
+36|9.401570066809654|36.9567752014594|1.3928468227386475|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x) + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y)**2/y
+37|3.8320776174465814|4.449610475866321|1.3928468227386475|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x) + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y)**2/y
+38|129.70424354573092|870.5155798760587|1.1978321075439453|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y) + sin(y)*cos(y)**2/y
+39|8.501563104490439|40.47980413857383|1.1978321075439453|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y) + sin(y)*cos(y)**2/y
+40|2.7900642305612564|2.248479961616871|1.1978321075439453|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y) + sin(y)*cos(y)**2/y
+41|2.488289790848891|1.87822948607364|1.1978321075439453|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y) + sin(y)*cos(y)**2/y
+42|6.236696948607762|23.81269617833888|1.1978321075439453|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y) + sin(y)*cos(y)**2/y
+43|2.5504367326696715|1.6615736735217015|1.1955344676971436|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(y)*cos(x)*cos(y)**2 + sin(y)*cos(y)**2 + sin(y)*cos(y) + sin(y)*cos(y)**2/y
+44|2.274530271689097|1.2031856441200917|1.1978321075439453|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y) + sin(y)*cos(y)**2/y
+45|52250.61930228273|358189.665900393|1.1978321075439453|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y) + sin(y)*cos(y)**2/y
+46|12.322010405361652|68.86932943460127|1.3928468227386475|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x) + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y)**2/y
+47|3.345674184461435|3.051099011465439|1.3928468227386475|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x) + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y)**2/y
+48|3.212331806619962|3.701114573105612|1.3928468227386475|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x) + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y)**2/y
+49|2.723005453745524|1.3662767125098874|1.3859678506851196|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x) + sin(y)*cos(x)*cos(y)**2 + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**2 + sin(y)*cos(y)**2/y
+50|3.704271155099074|3.940228625956316|1.372930884361267|abs(x)*sign(y) - abs(x)/sign(y) + abs(y)*cos(y)**2 + sin(x) + sin(y)*cos(x)*cos(y) + sin(y)*cos(y)**3 + sin(y)*cos(y)**2/y
+64317832
+512
+241.73908233642578

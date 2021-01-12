@@ -1,0 +1,33 @@
+operator, arity
++,2
+-,2
+*,2
+/,2
++,2
+-,2
+*,2
+/,2
++,2
+-,2
+*,2
+/,2
++ cos,2
+- cos,2
+* cos,2
+/ cos,2
++ sin,2
+- sin,2
+* sin,2
+/ sin,2
++ tan,2
+- tan,2
+* tan,2
+/ tan,2
++ abs,2
+- abs,2
+* abs,2
+/ abs,2
++ sign,2
+- sign,2
+* sign,2
+/ sign,2
