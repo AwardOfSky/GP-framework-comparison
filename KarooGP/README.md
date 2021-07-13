@@ -1,3 +1,5 @@
+Full credits to the original work by Kai Staats (www.kaistaats.com)
+
 # Karoo GP
 
 Karoo GP is an evolutionary algorithm, a genetic programming application suite written in Python which supports both 
